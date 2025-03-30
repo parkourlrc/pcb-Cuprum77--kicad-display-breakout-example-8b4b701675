@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "kicad-displays")(type "KiCad")(uri "${KIPRJMOD}/kicad-displays/kicad-displays.kicad_sym")(options "")(descr ""))
+  (lib (name "SFV18R-4STBE1HLF")(type "KiCad")(uri "${KIPRJMOD}/SFV18R_4STBE1HLF/SFV18R-4STBE1HLF.kicad_sym")(options "")(descr ""))
+)
